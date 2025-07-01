@@ -61,7 +61,7 @@ This model is ideal for **initial screening** – like a metal detector – bett
 
 ## 🧠 Dataset
 
-Based on publicly available [Heart Disease dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) from Kaggle.
+Based on publicly available [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) from Kaggle.
 
 ---
 
