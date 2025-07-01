@@ -11,7 +11,7 @@ The goal is to **maximize recall** to ensure that **no potential heart disease p
 ## ✅ Key Results
 
 - **Recall (Sensitivity)**: **100%** – all actual patients were detected
-- **Precision**: 67% – some healthy individuals were over-flagged
+- **Precision**: 57% – some healthy individuals were over-flagged
 - **Accuracy**: 70% – due to false positives
 - **F1-score**: 0.80 – balanced performance
 
@@ -61,7 +61,7 @@ This model is ideal for **initial screening** – like a metal detector – bett
 
 ## 🧠 Dataset
 
-Based on publicly available [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) from Kaggle.
+Based on publicly available [Heart Disease dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) [Heart Disease Cleveland dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)from Kaggle.
 
 ---
 
